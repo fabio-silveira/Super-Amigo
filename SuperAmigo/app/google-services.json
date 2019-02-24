@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "878321624708",
+    "firebase_url": "https://super-amigo-c5a01.firebaseio.com",
+    "project_id": "super-amigo-c5a01",
+    "storage_bucket": "super-amigo-c5a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878321624708:android:bec997e4b1a02891",
+        "android_client_info": {
+          "package_name": "fabio.silveira.superamigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878321624708-msbogt2bhqs6eria8ca2sjahpb4egngm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrhWA0H2YQlhJOBDikWgGJ13nc0CGgtI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

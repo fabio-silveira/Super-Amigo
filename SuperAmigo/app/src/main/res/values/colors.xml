@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Colors -->
+    <color name="colorPrimary">#9995B1</color>
+    <color name="colorPrimaryDark">#103557</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Extra Colors-->
+    <color name="yellow">#FFCC00</color>
+    <color name="lightpink">#FFC9E0</color>
+    <color name="pink">#9995B1</color>
+    <color name="white">#ffffff</color>
+
+</resources>
